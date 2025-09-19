@@ -21,8 +21,9 @@ const ds_button_states = {
     // e.g. 'square': false, 'cross': false, ...
     sticks: {
         left: {
-            x: 0,
-            y: 0
+            x: 1,
+            y: 1
+        
         },
         right: {
             x: 0,
